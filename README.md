@@ -1,3 +1,4 @@
 # Minor_Project
 Minor project for MCA
-Author - Saurabh Verma
+<br>
+Author - Saurabh Verma, Kanchan Sagar
